@@ -8,7 +8,7 @@ Working through the [AI Engineering from Scratch](https://github.com/rohitg00/ai
 - `projects/`: things I built using what I learned (or links to their repos)
 
 ## Projects
-_Add links here as you build them._
+_PSB_
 
 ## Setup (to rebuild on a new machine)
 ```
