@@ -39,5 +39,8 @@ To become a professional AI engineer, with the necessary skillset to be able to 
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 
+## In progress
+- Phase 0, Lesson 1: Dev Environment (2026-10-27). Checkpoint: identified that the system foundation comes first because the other layers build on it; recognized that sharing packages across projects can cause version conflicts. Lesson and quiz not yet completed.
+
 ## Review queue
 <empty for now; learn adds lessons the quizzes flag>
