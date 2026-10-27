@@ -38,9 +38,10 @@ To become a professional AI engineer, with the necessary skillset to be able to 
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-10-27 | 0/01 Dev Environment | 3/3 | Correctly traced the layer order and dot product; clarify that uv manages environments and packages, while NumPy/PyTorch are libraries. |
 
 ## In progress
-- Phase 0, Lesson 1: Dev Environment (2026-10-27). Checkpoint: identified that the system foundation comes first because the other layers build on it; recognized that sharing packages across projects can cause version conflicts. Lesson and quiz not yet completed.
+- None
 
 ## Review queue
 <empty for now; learn adds lessons the quizzes flag>
