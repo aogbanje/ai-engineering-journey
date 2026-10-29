@@ -43,6 +43,7 @@ To become a professional AI engineer, with the necessary skillset to be able to 
 | 2026-10-29 | 0/03 GPU Setup & Cloud | 3/3 | Correctly described CPU fallback and asynchronous GPU timing; revisit GB-to-parameter unit conversion in the fp16 VRAM estimate. |
 | 2026-10-29 | 0/04 APIs & Keys | 3/3 | Identified request bodies, environment-based secret handling, byte encoding, and the difference between authentication failures and rate limits. |
 | 2026-10-29 | 0/05 Jupyter Notebooks | 3/3 | Correctly distinguished `%timeit` from `%%time`, identified hidden state from out-of-order cells, and explained when to move code into scripts. |
+| 2026-10-29 | 0/06 Python Environments | 3/3 | Identified the active interpreter path, explained pip/conda dependency tracking conflicts, and recognized CUDA driver/build incompatibility. |
 
 ## In progress
 - None
