@@ -41,6 +41,7 @@ To become a professional AI engineer, with the necessary skillset to be able to 
 | 2026-10-27 | 0/01 Dev Environment | 3/3 | Correctly traced the layer order and dot product; clarify that uv manages environments and packages, while NumPy/PyTorch are libraries. |
 | 2026-10-28 | 0/02 Git & Collaboration | 3/3 | Correctly distinguished staging, committing, and pushing; identified branch creation and why model checkpoints belong in `.gitignore`. |
 | 2026-10-29 | 0/03 GPU Setup & Cloud | 3/3 | Correctly described CPU fallback and asynchronous GPU timing; revisit GB-to-parameter unit conversion in the fp16 VRAM estimate. |
+| 2026-10-29 | 0/04 APIs & Keys | 3/3 | Identified request bodies, environment-based secret handling, byte encoding, and the difference between authentication failures and rate limits. |
 
 ## In progress
 - None
