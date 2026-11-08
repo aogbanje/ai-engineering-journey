@@ -45,6 +45,7 @@ To become a professional AI engineer, with the necessary skillset to be able to 
 | 2026-10-29 | 0/05 Jupyter Notebooks | 3/3 | Correctly distinguished `%timeit` from `%%time`, identified hidden state from out-of-order cells, and explained when to move code into scripts. |
 | 2026-10-29 | 0/06 Python Environments | 3/3 | Identified the active interpreter path, explained pip/conda dependency tracking conflicts, and recognized CUDA driver/build incompatibility. |
 | 2026-10-30 | 0/07 Docker for AI | 3/3 | Explained Compose service discovery and volume persistence; revisit image vs. container, `WORKDIR` vs. port publishing, and when a CPU-only base image is preferable. |
+| 2026-11-08 | 0/08 Editor Setup | 3/3 | Identified Remote SSH, notebook output scrolling, and basic type checking; explained that format-on-save applies consistent layout. |
 
 ## In progress
 - None
